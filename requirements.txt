@@ -5,4 +5,5 @@ altair
 tiktoken
 huggingface-hub
 langchain
+sentence-transformers
 InstructorEmbedding

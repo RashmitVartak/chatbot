@@ -1,0 +1,7 @@
+pypdf
+python-dotenv
+streamlit
+altair
+tiktoken
+huggingface-hub
+InstructorEmbedding

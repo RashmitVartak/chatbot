@@ -4,4 +4,5 @@ streamlit
 altair
 tiktoken
 huggingface-hub
+langchain
 InstructorEmbedding

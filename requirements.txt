@@ -6,5 +6,5 @@ tiktoken
 huggingface-hub
 langchain
 sentence-transformers
-faiss
+FAISS
 InstructorEmbedding
